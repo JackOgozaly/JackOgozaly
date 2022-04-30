@@ -3,7 +3,7 @@
 
 Very bad at all this data stuff but trying!
 
-<img src="https://github.com/JackOgozaly/JackOgozaly/blob/main/Profile_Stickman.gif?raw=true" width="400" height="250">
+<img src="https://github.com/JackOgozaly/JackOgozaly/blob/main/Profile_Stickman.gif?raw=true">
 
 <!--
 **JackOgozaly/JackOgozaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
