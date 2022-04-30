@@ -3,7 +3,7 @@
 
 Very bad at all this data stuff but trying!
 
-![grab-landing-page](https://github.com/JackOgozaly/JackOgozaly/blob/main/Profile_Stickman.gif?raw=true)
+![grab-landing-page](https://github.com/JackOgozaly/JackOgozaly/blob/main/Profile_Stickman.gif?raw=true) width="400" height="250"
 
 
 
